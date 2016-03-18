@@ -1,0 +1,38 @@
+body{
+	margin:0;
+}
+
+ul
+{
+list-style-type: none;
+} 
+
+li a{
+	text-decoration: none;
+}
+
+.links{
+	display: inline-block;
+	float: right;
+	width: 30%;
+}
+
+.logo{
+	width: 3%;
+	height: 3%;
+	display: inline-block;
+	float: left;
+}
+
+.idioma{
+	display: inline-block;
+}
+
+.barra{
+	background-color: #3c4543;
+}
+
+.seccion1{
+
+
+}
